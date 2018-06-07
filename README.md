@@ -11,4 +11,5 @@ This repository is for my personel skill set which I learned in 2018. This will 
 * Started learing Three.js for 3D Rendering or draw 3d model on web browser.
 * Learned Continues Deployment and Continues Integration at inter mdediate level.
 * Working on visualization project which compare or display different charts from different chart library.
+* Need to work on one of project which is created in asp.net mvc 4 and want to convert to dotnet core.
 
