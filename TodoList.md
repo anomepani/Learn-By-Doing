@@ -9,6 +9,7 @@
 * [ ] Writing article and blogs for specific issue and resolutions
 * [ ] Training Topics for HTML5, CSS3 and Javascript/Jquery
 * [ ] Identity Server or Auth0 Integration
-* [ ] Profiler, APM, Prefix,Glimpse, Elmah
+* [ ] Profiler, APM, Prefix,Glimpse, Elmah, Logger4Net
 * [ ] Powerful and advance grid library e.g. Kendo,Infragistic, ag-grid,telerik rad grid, handsontable etc. spreadsheets
-* [ ] Codesnippet or tips 
+* [ ] Code snippet or tips 
+* [ ] Very hot topic in API Development world - REST vs GraphQL vs OData
