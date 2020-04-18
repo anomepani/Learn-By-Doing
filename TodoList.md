@@ -13,3 +13,24 @@
 * [ ] Powerful and advance grid library e.g. Kendo,Infragistic, ag-grid,telerik rad grid, handsontable etc. spreadsheets
 * [ ] Code snippet or tips 
 * [ ] Very hot topic in API Development world - REST vs GraphQL vs OData
+
+18-APR-2020,
+
+* [ ] AspNet core 3.1
+* [ ] Rest full API(OData, GraphQL, REST, gRPC)
+* [ ] Security
+* [ ] Azure, ServerLess,
+* [ ] SignalR (Real Time communication)
+* [ ] React, ES6, TypeScript,
+* [ ] Angular
+* [ ] Configuration,
+* [ ] Az Configuration, Function App,
+* [ ] Azure Key Vault
+* [ ] Background service, Generic host(Schedule, Background)
+* [ ] OAuth,  open identity, Azure AD
+* [ ] On Behalf low
+* [ ] Implicit  flow
+* [ ] Authorization flow
+* [ ] UN/PW flow
+* [ ] RBAC
+* [ ] Authentication, authorization
