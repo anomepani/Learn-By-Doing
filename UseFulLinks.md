@@ -7,3 +7,6 @@
 3. https://www.thereformedprogrammer.net/a-better-way-to-handle-authorization-in-asp-net-core/#the-architecture-of-the-roles-to-permissions-system
 4. https://www.thereformedprogrammer.net/part-2-handling-data-authorization-asp-net-core-and-entity-framework-core/
 
+GraphQL DotNet Core Useful Reference links:
+
+* https://volosoft.com/blog/Building-GraphQL-APIs-with-ASP.NET-Core
